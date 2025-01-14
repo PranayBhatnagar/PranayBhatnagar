@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Firebase, Unity**
 
-💬 Check out my portfolio website here [here](https://pranaybhatnagar.github.io/portfolio/)**
+💬 Check out my portfolio website here [here](http://pranaybhatnagar.framer.website/)**
 
 ⚡ Fun fact **Competitive coding has its subculture, complete with memes, inside jokes, and legendary rivalries between top programmers. It's a world where the fastest fingers and sharpest minds compete for glory and bragging rights!**
 
