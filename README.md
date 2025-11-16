@@ -4,28 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranay+Bhatnagar!;" />
 </h1>
 
-<h3 align="center">AI-Driven Software Developer from Hyderabad, India</h3>
+<h3 align="center">AI-Focused Software Developer from Hyderabad, India</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I am currently working at **Cognida.ai**, building **AI solutions** that try their best to behave like smart humans. Some days they do, some days they just hallucinate confidently.
+ 🔭 I work at **Cognida.ai**, crafting intelligent solutions that simplify real-world problems using **Python, FastAPI, GCS, DevOps**, and modern GenAI tooling.
 
- 🤖 I work with **Python, FastAPI, GCS, CI/CD, DevOps, REST**, and everything that helps turn ideas into working AI systems.
+ 🤖 I enjoy building systems that are smart, scalable, and a bit playful when they feel like it.
 
- 🌱 I am exploring **GenAI engineering**, workflow automation, and how to stop AI agents from thinking they are philosophers.
+ 🌱 Currently exploring **GenAI**, optimized workflows, and how to make AI behave more like an assistant and less like a stand-up comedian.
 
- 💬 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/pranay-bhatnagar/)**
+ 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/pranay-bhatnagar/)**
 
- 🎯 Quirky Thought:  
- If AI models ever gain self-awareness, will they finally understand why developers stare at the screen for 10 minutes before typing one line of code?
-
- ⚡ Fun Fact:  
- AI is great at solving problems, but sometimes it creates new ones too. Luckily solving those is also part of the fun.
-
- ❓ Random Question of the Day:  
- If an AI refuses to respond, is it debugging itself or silently judging your prompt?
+ ⚡ Fun Facts About Me:  
+ • My average AI model knows thousands of facts, but still struggles to remember where it left its own outputs, which costs me hours (trust me, I'm improving or at least OpenAI is...)  
+ • I don’t drink coffee for energy. I drink it to make my code compile out of respect.  
+ • AI won't take my job. It will just automate the parts I secretly hate.
 
 </div>
 
@@ -65,4 +61,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PranayBhatnagar/PranayBhatnagar/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
